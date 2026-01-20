@@ -2,6 +2,7 @@
 import socket
 import sys
 
+
 def start_client(server_ip, server_port):
   
     #creating TCP socket
