@@ -108,9 +108,9 @@ def main():
         print("  PUBLISHER  - Send messages to all subscribers")
         print("  SUBSCRIBER - Receive messages from publishers")
         print("\nExamples:")
-        print("  python my_client_app.py 192.168.10.2 5000 PUBLISHER")
-        print("  python my_client_app.py 192.168.10.2 5000 SUBSCRIBER")
-        print("  python my_client_app.py 127.0.0.1 5000 PUBLISHER")
+        # print("ex:  python my_client_app.py 192.168.10.2 5000 PUBLISHER")
+        # print("ex:  python my_client_app.py 192.168.10.2 5000 SUBSCRIBER")
+        # print("ex:  python my_client_app.py 127.0.0.1 5000 PUBLISHER")
         sys.exit(1)
 
     try:
